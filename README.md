@@ -1,2 +1,7 @@
 # Software-Design-Docs
-Repository for the software design documents (UML, SRA, Test Plan) for a Software Engineering Group Project for my CSE 3310 lecture.
+## Software design documents (UML, SRA, Test Plan)
+Course: CSE 3310 - Fundamentals of Software Engineering
+Project: Schedulink
+Group: 4
+
+
